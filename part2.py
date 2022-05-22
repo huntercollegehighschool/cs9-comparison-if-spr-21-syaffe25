@@ -17,4 +17,3 @@ elif num1 == num2 or num2 == num3 or num1 == num3 :
   print("Exactly two of the numbers are equal.")
 else:
   print("None of the numbers are equal.")
-#i think this is done but idk what bug he means
