@@ -30,4 +30,4 @@ elif number1 == number2 or number1 == number3:
   smallest = number1
 else:
   smallest = number2
-print(smallest)
+print(smallest) 
